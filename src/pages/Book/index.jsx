@@ -4,8 +4,8 @@ import PhotoBook from "../../../public/PhotoBook.png"
 
 function Book() {
     return (
-        <div className="pt-9 pb-9 bg-blue-950">
-            <div className="flex text-white container items-center justify-between p-4">
+        <div className="pt-9 pb-9 mx-auto bg-blue-950">
+            <div className="flex text-white  mx-auto container items-center justify-between p-4">
                 <div className="flex flex-col gap-9">
                     <h3 className="text-5xl font-bold">Get Book Copy Today!</h3>
                     <h6> ———— </h6>
