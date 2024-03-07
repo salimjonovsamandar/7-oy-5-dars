@@ -9,7 +9,6 @@ function Resources() {
         <div className="container bg-slate-100 items-center justify-between mx-auto pb-20 p-4 ">
             <h3 className="text-4xl pt-12 pb-16 font-bold text-center">Articles & Resources</h3>
             <div className="flex items-center gap-6 justify-around">
-
                 <div className="card w-96 shadow-xl bg-white rounded-none">
                     <Image src={recourses1} alt="" />
                     <div className="card-body">
